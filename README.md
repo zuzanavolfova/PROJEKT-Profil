@@ -16,6 +16,6 @@ Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevz
    - **šířka** celého rámečku s profilem je **250px** (nebo 300px, pokud se ti to bude líbit víc)
 	 - **padding** mezi okrajem rámečku a obsahem uvnitř je **20px**
 
-![Zadání úkolu](zadani.jpg)
+![Zadání úkolu](zadani-ukolu.jpg)
 
 Snaž se na věci přijít sama, ale když se na něčem zasekneš, neboj se nás zeptat na Slacku. Na tvoje dotazy ti rádi odpovíme.
