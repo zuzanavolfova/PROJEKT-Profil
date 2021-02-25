@@ -13,8 +13,9 @@ Bonusový úkol pro kurz Staň se kóderkou od Czechitas. Tento úkol se neodevz
 4. Nakóduj CSS, aby stránka vypadala jako na obrázku. V souboru *zadani-ukolu.jpg* uvidíš, jak má stránka vypadat a jaká jsou na ní použitá písma.
 
 5. Na obrázku se zadáním nejsou uvedené žádné rozměry. Stačí ti pouze dva:
-   - **šířka** celého rámečku s profilem je **250px** (nebo 300px, pokud se ti to bude líbit víc)
-	 - **padding** mezi okrajem rámečku a obsahem uvnitř je **20px**
+
+- **šířka** celého rámečku s profilem je **250px** (nebo 300px, pokud se ti to bude líbit víc)
+- **padding** mezi okrajem rámečku a obsahem uvnitř je **20px**
 
 ![Zadání úkolu](zadani-ukolu.jpg)
 
