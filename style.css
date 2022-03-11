@@ -33,7 +33,6 @@ h1 {
 
 .obsah {
     background-color: #31363a;
-    margin-top: 0;
     padding: 20px;
     margin-bottom: 0;
 }
@@ -52,7 +51,6 @@ h1 {
 
 .foto {
     width: 250px;
-    margin: 0;
 }
 
 .logo {
@@ -73,7 +71,6 @@ h1 {
     display: inline-block;
     border: 1px solid #3f464d;
     width: 49%;
-    margin: 0;
 }
 
 .odkazy {
